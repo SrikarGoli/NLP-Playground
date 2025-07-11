@@ -43,6 +43,6 @@ This repository contains multiple Jupyter notebooks showcasing key Natural Langu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nlp-lab-jupyter.git
-   cd nlp-lab-jupyter
+   git clone https://github.com/SrikarGoli/NLP-Playground.git
+   cd NLP-Playground
 
